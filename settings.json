@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TuffSMP-GIS.aternos.me",
+    "ip": "TuffSMP_GIS.aternos.me",
     "port":33554,
     "version": "",
     "try-creative": false
