@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "TuffSMP_GIS.aternos.me",
-    "port":33554,
+    "port":20440,
     "version": "",
     "try-creative": false
   },
